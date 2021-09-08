@@ -1,6 +1,6 @@
 import java.util.Locale;
 
-public class Ass3_3 {
+public class Assignment3 {
 
     public static void main(String[] args) {
 
